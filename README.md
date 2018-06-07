@@ -1,2 +1,0 @@
-# ReactSocialCardExample
-Created with CodeSandbox
